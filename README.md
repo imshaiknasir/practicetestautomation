@@ -42,6 +42,10 @@ Run tests with headed mode:
 npm run test:headed
 ```
 
+## Documentation
+
+- Functional Test Cases: [FunctionalTestCases.md](docs/FunctionalTestCases.md)
+
 ## Test Reports
 
 - HTML report is automatically generated after test runs
